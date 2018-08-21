@@ -1,0 +1,11 @@
+com/xebia/robot/application/service/impl/RobotServiceImpl.class
+com/xebia/robot/application/monitor/MonitorRobotHealth.class
+com/xebia/robot/application/factory/RobotFactory.class
+com/xebia/robot/application/controller/RobotController.class
+com/xebia/robot/application/exception/RobotApplicationException.class
+com/xebia/robot/application/models/Robot$Color.class
+com/xebia/robot/application/response/RobotActivityReponse.class
+com/xebia/robot/application/monitor/impl/MonitorRobotHealthImpl.class
+com/xebia/robot/application/RobotApplication.class
+com/xebia/robot/application/models/Robot.class
+com/xebia/robot/application/service/RobotService.class
